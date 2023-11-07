@@ -7,6 +7,14 @@
     {
       "email": "hey@kumarharsh.me",
       "password": "$2b$10$Lrm/GG7Klwylen9MXifus.H/TardFqnvBjD8LYXXjiuzEx.kXbz2u"
+    },
+    {
+      "email": "afaryniarz3@gmail.com",
+      "password": "$2b$10$60L47vm8f2Iou7hpdGoIweoGSAmjmzfzCstcwXAd50yLciJw19x4q"
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "$2b$10$UT.duINN5PBwbEGwL53TUe0PyjDXCuGKvD7GJWYrgPA/iHOfMGaZi"
     }
   ]
 }
